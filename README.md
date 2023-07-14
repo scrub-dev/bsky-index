@@ -6,8 +6,8 @@
 ## Shortcuts
 * [General Sites](#general-sites)
 * [API](#api)
-* [User Interaction](#user-interaction)
 * [Feeds](#feeds)
+* [User Interaction](#user-interaction)
 
 ## General Sites
 ###
