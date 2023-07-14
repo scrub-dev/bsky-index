@@ -34,5 +34,5 @@
 
 * **[Atlas](https://bsky.jazco.dev)** : An Engagement-based social graph for Bluesky
 * **[Interaction graphic](https://wolfgang.raios.xyz/interactions)** :  Interaction image generator for past 7-days
-* **[pSky](https://github.com/ianklatzco/psky.app/) : p(review)sky url previewer
+* **[pSky](https://github.com/ianklatzco/psky.app/)** : p(review)sky url previewer
 
