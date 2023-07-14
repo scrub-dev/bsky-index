@@ -14,7 +14,8 @@
 
 * **[Wolfgang](https://wolfgang.raios.xyz)** : Wolfgang provides interaction lists, follower and block statistics.
 * **[SkyFeed](https://skyfeed.app)** : SkyFeed Provides an alternative way to interact with BSky / ATProtocol Sites
-* **[Twexit](https://twexit.nl)** : Experiemental Client Tools App for BlueSky 
+* **[Twexit](https://twexit.nl)** : Experiemental Client Tools App for BlueSky
+* **[FireSky](https://firesky.tv)** : BlueSky Firehose visualiser
   
 ## API
 ###
