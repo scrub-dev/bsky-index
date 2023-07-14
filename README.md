@@ -20,6 +20,7 @@
 
 * **[Feed Generator](https://github.com/bluesky-social/feed-generator)** : A repository to create a basic feed in bluesky
 * **[DID Lookup Endpoint](https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=YourHandle)** : Get a handles DID
+* **[BlueSky Wrapper](https://blue.amazingca.dev)** : Interactive API Wrapper to test queries
 
 ## Feeds
 ###
