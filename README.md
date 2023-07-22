@@ -55,3 +55,6 @@
 * **[Link](https://bsky.link)** : Embed BSky Links
 * **[pSky](https://github.com/ianklatzco/psky.app/)** : p(review)sky url previewer
 
+## Other Lists
+
+* https://github.com/fishttp/awesome-bluesky
