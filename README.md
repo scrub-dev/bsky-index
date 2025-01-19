@@ -10,6 +10,7 @@
 * [Feeds](#feeds)
 * [User Interaction](#user-interaction)
 * [Posting](#posting)
+* [Analytics](#analytics)
 
 ## General Sites
 ###
@@ -54,6 +55,13 @@
 * **[Polls](https://poll.blue)** : Create a poll on Bsky
 * **[Link](https://bsky.link)** : Embed BSky Links
 * **[pSky](https://github.com/ianklatzco/psky.app/)** : p(review)sky url previewer
+
+## Analytics
+###
+
+* **[BlueView](https://blueview.app)** : Insights and Analytics for your own BlueSky profile
+* **[SkyKit](https://skykit.blue/)** : Check out your Bluesky user stats
+* **[SkyWatch](https://github.com/gxjansen/SkyWatch)** : Analytics & management tool for the accounts you follow
 
 ## Other Lists
 
